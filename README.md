@@ -4,4 +4,5 @@
 - [488](./Stacking%20Classfication/stacking%20classification.ipynb)
 - [489](./stacking/stacknet.ipynb)
 - [492](./svm-1/svm.ipynb)
+- [511](./DecisionTree+NeuralNetwork+KmeansPca)
 - [529](./svm-2/svm.ipynb)
